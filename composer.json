@@ -1,0 +1,23 @@
+{
+    "name": "berarma/aquarium-web-calculator",
+    "description": "Aquarium Web Calculator",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernat Arlandis",
+            "email": "berarma@hotmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/berarma/aquarium-toolbox"
+        }
+    ],
+    "require": {
+        "slim/slim": "^2.6",
+        "berarma/aquarium-toolbox": "dev-master"
+    }
+
+}
